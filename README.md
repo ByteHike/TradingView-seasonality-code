@@ -1,1 +1,1 @@
-# TradingView-seasonality-code
+# TradingView seasonality code
